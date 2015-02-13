@@ -31,6 +31,7 @@
 #include <SLESCXX/impl/csl_dynamic_source_itf.hpp>
 #include <SLESCXX/impl/csl_output_mix_itf.hpp>
 #include <SLESCXX/impl/csl_play_itf.hpp>
+#include <SLESCXX/impl/csl_playback_rate_itf.hpp>
 #include <SLESCXX/impl/csl_prefetch_status_itf.hpp>
 #include <SLESCXX/impl/csl_seek_itf.hpp>
 #include <SLESCXX/impl/csl_record_itf.hpp>
