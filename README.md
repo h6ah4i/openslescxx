@@ -14,7 +14,7 @@ License
 See [`LICENSE`](LICENSE) for full of the license text.
 
 
-    Copyright (C) 2014 Haruki Hasegawa
+    Copyright (C) 2014-2015 Haruki Hasegawa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
