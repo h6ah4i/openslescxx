@@ -6,7 +6,7 @@ This library is a part of the OpenSLMediaPlayer library and it provides C++ frie
 Latest version
 ---
 
-- Version 0.5.0  (November 23, 2014)
+- Version 0.5.1  (February 13, 2015)
 
 License
 ---
